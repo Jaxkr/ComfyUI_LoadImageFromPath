@@ -1,7 +1,0 @@
-# Already required by ComfyUI:
-# torch
-# Pillow
-# numpy
-
-click ~= 8.1
-networkx ~= 3.0
